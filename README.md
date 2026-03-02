@@ -1,8 +1,8 @@
-# 🎬 Flixora – The Popcorn-Powered Movie Ticket Booking Website 🍿
+# 🎬 Fimozo – The Popcorn-Powered Movie Ticket Booking Website 🍿
 
 > _Built with sweat, caffeine, memes, and the mighty MERN stack._
 
-Welcome to **Flixora** – a full-stack movie ticket booking experience so smooth, even Thanos would snap his fingers twice to book tickets.
+Welcome to **Fimozo** – a full-stack movie ticket booking experience so smooth, even Thanos would snap his fingers twice to book tickets.
 
 ---
 
@@ -71,23 +71,7 @@ If your payment fails (because the internet betrayed you):
 
 ---
 
-## 🚀 How to Run This Beast?
 
-```bash
-git clone https://github.com/narendraxgupta/flixora.git
-cd flixora
-npm install
-```
-
-Setup your `.env` file like your secret popcorn recipe. Then:
-
-```bash
-npm run dev
-```
-
-Sit back, grab popcorn, and enjoy your locally hosted movieverse.
-
----
 
 ## 🐞 Bugs?
 
@@ -104,4 +88,4 @@ Go build it. Deploy it. Share it. And maybe... book a ticket for yourself while 
 
 ---
 
-**Made with ❤️ + ☕ + Code** by Narendra Gupta
+**Made with ❤️ + ☕ + Code** by Tanmay shivhare
